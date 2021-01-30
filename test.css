@@ -1,0 +1,10 @@
+body{
+    background-color: lightblue;
+}
+#container{
+    text-align: center;
+
+}
+#counter-text{
+    font-size: 500px;
+}
